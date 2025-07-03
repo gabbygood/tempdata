@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h=zh^-g*urmp=8%^&&1e7!rlbyd=y4raw+(sw66g)&0ohmc*+w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://tempdata.onrender.com', 'tempdata.onrender.com', '127.0.0.1', 'localhost', '192.168.0.193']
+ALLOWED_HOSTS = ['https://tempdata.onrender.com', 'tempdata.onrender.com', '127.0.0.1', 'localhost', '192.168.0.193', '8dd2-103-62-153-142.ngrok-free.app']
 
 
 
